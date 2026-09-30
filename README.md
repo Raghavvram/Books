@@ -8,4 +8,4 @@ Books
 - [ ] Atomic Habits - James Clear
 - [ ] How to Win Friends and Influence People - Dale Carnegie
 - [ ] A Practical Guide to Critical Thinking - Greg R. Haskins
-- [ ] Fck Your Resume - Ace Your Professional Profile Online and Make Employers Come to You
+- [x] Fck Your Resume - Ace Your Professional Profile Online and Make Employers Come to You
