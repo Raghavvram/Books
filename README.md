@@ -6,6 +6,6 @@ Books
 - [x] IKIGAI - Hector Gargia & Prancesc Miralles
 - [ ] The Magic of Thinking Big - David J. Schwartz
 - [ ] Atomic Habits - James Clear
-- [ ] How to Win Friends and Influence People - Dale Carnegie
+- [x] How to Win Friends and Influence People - Dale Carnegie
 - [ ] A Practical Guide to Critical Thinking - Greg R. Haskins
 - [x] Fck Your Resume - Ace Your Professional Profile Online and Make Employers Come to You
