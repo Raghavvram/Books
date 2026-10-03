@@ -10,3 +10,4 @@
 - [ ] A Practical Guide to Critical Thinking - Greg R. Haskins
 - [x] Fck Your Resume - Ace Your Professional Profile Online and Make Employers Come to You
 - [ ] The Chraisma Myth - Olivia Fox Cabane
+- [ ] Things I Wish I'd Known Before We Got Married - Gary Chapman
